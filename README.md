@@ -1,2 +1,0 @@
-# mapel-produktif.txt
-SDKD
