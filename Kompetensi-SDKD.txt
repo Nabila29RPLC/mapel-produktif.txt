@@ -3,3 +3,5 @@ A. komunikasi daring sinkron
 - Line
 B. Komunikasi daring asinkron
 - email 
+C. Github
+D. Git
