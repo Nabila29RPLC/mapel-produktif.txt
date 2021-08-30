@@ -3,3 +3,7 @@ A. komunikasi daring sinkron
 - Line
 B. Komunikasi daring asinkron
 - email 
+C. Github
+- membuat akun 
+- membuat repository
+D. Git
