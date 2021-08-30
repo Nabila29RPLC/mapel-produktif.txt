@@ -3,8 +3,10 @@ A. komunikasi daring sinkron
 - Line
 B. Komunikasi daring asinkron
 - email 
-C. Github
+C. Github 
 - membuat akun 
-- membuat repository (file baru dan komit)
-D. Git
+- membuat repository
+- membuat file baru
+- membuat komit
+D. Git 
 - belum 
